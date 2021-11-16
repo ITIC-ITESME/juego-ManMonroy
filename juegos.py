@@ -1,6 +1,7 @@
 # Juegos de azar, utilizando numeros aleatoreos.
 import random
 
+# Juego de tombola
 def tombola():
     oportunidades = 10 
     for i in range(oportunidades):
