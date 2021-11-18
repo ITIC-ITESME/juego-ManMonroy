@@ -41,6 +41,7 @@ def menu():
             tombola()
         elif i == 2:
             print("\nDatos que suman 7")
+            dados()
         elif i == 3:
             break
         else:
